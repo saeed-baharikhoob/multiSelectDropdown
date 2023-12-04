@@ -1,7 +1,7 @@
 # Multi Select Dropdown
 
 ## Overview
-This project is a example for creation of a multi-select dropdown component using React, TypeScript, and Vite.
+This project is a example for creation of a multi-select dropdown component using React, TypeScript, Vite and BEM-structured SCSS files.
 <p align="center">
   <img src="src/assets/appImages/1.jpg" alt="Alt Text" height="250px" />
   <img src="src/assets/appImages/2.jpg" alt="Alt Text" height="250px" />
